@@ -14,9 +14,40 @@
 
 }
 
-nav{
-  display: flex;
-  justify-content: space-around;
+.nav {
+	background-color: darkgray;
+	color: black;
+	list-style: none;
+	text-align: right;
+	padding: 20px 0 2px 0;
 }
 
+.nav > li {
+  display: inline-block; 
+  padding: 0 15px 0 15px; 
+  font-size: 12px;
+}
 
+.nav > li > a {
+	text-decoration: none;
+	color: #ffffff;
+}
+
+.nav > li > a:hover {
+	color: orange; 
+	font-size: 13px;
+	transition-delay:0.2s;
+}
+
+.logo {
+	color: black;
+	float: left;
+	padding-left: 25px;
+	font-size: 16px;
+	font-weight: bold; 
+}
+
+.logo > a {
+	text-decoration: none;
+	color: black;
+}
