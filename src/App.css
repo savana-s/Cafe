@@ -7,6 +7,7 @@
 .App {
   background: url(https://images.pexels.com/photos/942815/pexels-photo-942815.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) no-repeat center center/cover;
   position: absolute; 
+  opacity: o.5;
   top: 0;
   left: 0;
   width: 100%;
