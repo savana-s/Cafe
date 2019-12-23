@@ -8,7 +8,6 @@
   background: url(https://images.pexels.com/photos/942802/pexels-photo-942802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) no-repeat center center/cover;
   transform: rotate(180deg);
   position: absolute; 
-  opacity: 99%;
   top: 50px;
   left: 0;
   width: 100%;
@@ -17,9 +16,9 @@
 
 
 .nav {
-	background-color: rgb(249,249,252);
+	background-color; rgb(249,249,252);
 	color: red;
-	opacity: 99%;
+	opacity: 19%;
 	list-style: none;
 	text-align: right;
 	padding: 20px 10px 20px 10px;
