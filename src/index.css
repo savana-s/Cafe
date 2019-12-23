@@ -1,8 +1,6 @@
 body {
   margin: 0;
-  background-image: url(https://images.pexels.com/photos/942815/pexels-photo-942815.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) no-repeat center center/cover;
   position: absolute; 
-  opacity: 50%;
   top: 0;
   left: 0;
   width: 100%;
@@ -17,4 +15,17 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+div {
+  color: red;
+  font-size: 22px;
+}
+
+p {
+	position: relative;
+	align-content: center;
+	padding: 20% 45% 25% 45%;
+	color: blue;
+	
 }
