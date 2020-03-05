@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Cafe/static/css/main.f0e93f79.chunk.css",
+    "main.js": "/Cafe/static/js/main.676ffba6.chunk.js",
+    "main.js.map": "/Cafe/static/js/main.676ffba6.chunk.js.map",
+    "runtime-main.js": "/Cafe/static/js/runtime-main.29adc1c7.js",
+    "runtime-main.js.map": "/Cafe/static/js/runtime-main.29adc1c7.js.map",
+    "static/js/2.89f9cae6.chunk.js": "/Cafe/static/js/2.89f9cae6.chunk.js",
+    "static/js/2.89f9cae6.chunk.js.map": "/Cafe/static/js/2.89f9cae6.chunk.js.map",
+    "index.html": "/Cafe/index.html",
+    "precache-manifest.355f95e6209572d9c63221a4cc4f88b3.js": "/Cafe/precache-manifest.355f95e6209572d9c63221a4cc4f88b3.js",
+    "service-worker.js": "/Cafe/service-worker.js",
+    "static/css/main.f0e93f79.chunk.css.map": "/Cafe/static/css/main.f0e93f79.chunk.css.map",
+    "static/js/2.89f9cae6.chunk.js.LICENSE": "/Cafe/static/js/2.89f9cae6.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29adc1c7.js",
+    "static/js/2.89f9cae6.chunk.js",
+    "static/css/main.f0e93f79.chunk.css",
+    "static/js/main.676ffba6.chunk.js"
+  ]
+}
