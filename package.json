@@ -1,21 +1,21 @@
 {
   "name": "javascript-snake",
   "version": "1.0.0",
-  "description": "JavaScript Snake<br/> By Patrick Gillespie<br/> License: MIT<br/> http://patorjk.com/games/snake",
+  "description": "Snake in javascript",
   "main": "js/snake.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/patorjk/JavaScript-Snake.git"
+    "url": "git+https://github.com/savana-s/Cafe.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/patorjk/JavaScript-Snake/issues"
+    "url": "https://github.com/savana-s/Cafe/issues"
   },
-  "homepage": "https://github.com/patorjk/JavaScript-Snake#readme",
+  "homepage": "https://github.com/savana-s/Cafe",
   "devDependencies": {
     "webpack": "^4.41.1",
     "webpack-cli": "^3.3.9"
