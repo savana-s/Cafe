@@ -394,7 +394,7 @@ function getHighScore() {
               (e.id = "sbWelcome" + l), (e.className = "snake-welcome-dialog");
               var t = document.createElement("div"),
                 n = "";
-              E.fullScreen && (n = "Or press F11 to play in Full Screen mode.");
+              E.fullScreen && (n = "Or to play in Full Screen mode.");
               t.innerHTML =
                 "Cafe Snake<p></p>Use the <strong>arrow keys</strong> on your keyboard to play the game. " +
                 n +

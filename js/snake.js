@@ -754,7 +754,7 @@ SNAKE.Board =
         elmAboutPanel = document.createElement("div");
         elmAboutPanel.className = "snake-panel-component";
         elmAboutPanel.innerHTML =
-          "<a href='http:/www.savanas.net' class='snake-link'>more savanas.net apps</a> - <a href='https://github.com/patorjk/JavaScript-Snake' class='snake-link'>source code</a> - <a href='https://www.instagram.com/patorjk/' class='snake-link'>pat's instagram</a>";
+          "<a href='http:/www.savanas.net' class='snake-link'>more savanas.net apps</a> - <a href='https://github.com/savana-s/Cafe' class='snake-link'>source code</a> - <a href='https://github.com/savana-s' class='snake-link'>Savana's Github</a>";
 
         elmLengthPanel = document.createElement("div");
         elmLengthPanel.className = "snake-panel-component";
@@ -858,7 +858,7 @@ SNAKE.Board =
         tmpElm.className = elmClassName;
 
         var gameEndTxt = document.createElement("div");
-        gameEndTxt.innerHTML = "JavaScript Snake<p></p>" + message + "<p></p>";
+        gameEndTxt.innerHTML = "Cafe Snake<p></p>" + message + "<p></p>";
         var gameEndStart = document.createElement("button");
         gameEndStart.appendChild(document.createTextNode("Play Again?"));
 
